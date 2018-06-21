@@ -182,3 +182,16 @@ li {
 iframe {
 	height: 20vmax;
 }
+
+.location {
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.location h2,
+.location p {
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
